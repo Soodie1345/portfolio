@@ -1,0 +1,5 @@
+Title: Contact
+----
+Heading1: Contact Page
+----
+Heading2: Contact Information

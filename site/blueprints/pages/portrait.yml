@@ -1,0 +1,17 @@
+
+title: portrait
+
+preset: page
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+
+    heading: text
+    category:
+      type: text
+      client:
+        type: text
+        contact:
+          type: url

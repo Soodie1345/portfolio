@@ -1,0 +1,21 @@
+Title: Home
+
+----
+
+Text:
+
+Welcome to Soodie's Page
+
+The purpose of creating this website is to showcase my art projects from courses taken at Diablo Valley College. These courses include: Web Design, Digital Photography, Digital Imaging and Graphic Design. As I progress and learn more techniques, I will update the website and add more art work.
+
+----
+
+Heading1: Portfolio Page
+
+----
+
+Welcome:
+
+The purpose of creating this website is to showcase my art projects from courses taken at Diablo Valley College.
+        Theses courses include: Digital Photography, Digital Imaging and Graphic Design. As I progress in learning and 
+        ans my skills, I will update the website and add more art works.

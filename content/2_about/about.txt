@@ -1,0 +1,24 @@
+Title: About
+
+----
+
+Text:
+
+This is the text info
+
+Background
+Introduction: Soodie was born in Abadan, Iran, and immigrated to the US at the age of 17. After getting married I resided in the Bay Area and started taking classes at Diablo Valley College with majoring in architecture. I paused my education for couple of decades to raise my kids and start a career in telecommunication. Last year, fall of 2019, I decided to go back to college and continue my academic education.
+
+----
+
+Heading1: Background
+
+----
+
+Introduction:
+
+I was born in Abadan, Iran, and immigrated to the US at the age of 17. 
+After getting married I resided in the Bay Area and started taking classes at Diablo Valley College 
+with majoring in architecture. I paused my education for couple of dacades to raise my kids and 
+start a career in telecommunication. Last year, fall of 2019, I decided to go back to college and 
+continue my academic education.

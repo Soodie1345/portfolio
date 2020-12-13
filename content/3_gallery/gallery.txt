@@ -1,0 +1,25 @@
+Title: Gallery
+
+----
+
+Text: Welcome To My Art Gallery
+
+----
+
+Heading2: The Gallery of My Art work
+
+----
+
+Category: Art Work
+
+----
+
+Sub-category: Portrait
+
+----
+
+Client: Soodie
+
+----
+
+Link: https://getkirby.com
